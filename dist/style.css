@@ -1,0 +1,15 @@
+/*
+* {
+	border: 1px dotted orange;
+}
+*/
+h1 {
+	cursor: default;
+}
+
+.header__cash:hover {
+	opacity: 0%;
+	cursor: grab;
+	transition: all;
+	transition-duration: 1s;
+}
